@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Practice</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Bharat's 🕊 Typing Tool</h1>
+        <div id="text" class="text-box"></div>
+        <input type="text" id="input" class="input-box" placeholder="Start typing..." autofocus>
+        <div class="stats">
+            ⏳ Time: <span id="timer">0</span>s | 
+            🚀 Speed: <span id="wpm">0</span> WPM | 
+            🎯 Accuracy: <span id="accuracy">100</span>%
+        </div>
+        <button class="restart-btn" onclick="restartTest()">Restart</button>
+        <button class="restart-btn" id="pause-btn" onclick="togglePause()">Pause</button>
+        <div style="margin-top: 10px; font-size: 12px; color: #c9d1d9; text-align: center;">
+            <strong>Tab</strong> | <strong>Esc</strong>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
