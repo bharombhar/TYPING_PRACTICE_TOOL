@@ -1,6 +1,8 @@
 # Bharat's 🕊 Typing Tool
 
 This is a web-based typing practice tool designed to help users improve their typing speed and accuracy.
+# go to link of tool
+https://bharombhar.github.io/TYPING_PRACTICE_TOOL/
 
 ## Features
 
@@ -34,6 +36,13 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 ## Author
 
 - Bharat Rasve
+- Follow Bharat Rasve for more.
+
+Twitter: https://lnkd.in/dumhzwzK
+Instagram: https://lnkd.in/dmtbG9iu
+Quora: https://lnkd.in/dsZvEmNh
+Youtube: https://lnkd.in/dkZTNjsU
+
 
 ## License
 
